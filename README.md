@@ -30,8 +30,7 @@ This dashboard provides a comprehensive view of:
 ---
 
 ## 🛠️ Tools & Technologies
-- Power BI Desktop  
-- DAX (Data Analysis Expressions)  
+- Power BI Desktop 
 - Power Query  
 - MySQL / Excel (Data Source)  
 - Python (optional preprocessing)
@@ -41,21 +40,20 @@ This dashboard provides a comprehensive view of:
 ## 🖼️ Dashboard Snapshots
 
 ### Year-wise Report (2020)
-![Dashboard 2020](./1.png)
+![Dashboard 2020](![image](https://github.com/user-attachments/assets/c3c6cb59-b014-4e80-82f0-1c7cef740b39)
+)
 
 ### Overall Report (2017-2020)
-![Dashboard Overall](./2.png)
+![Dashboard Overall](![image](https://github.com/user-attachments/assets/86846d7e-f989-4d2d-aed1-29c98d0d506f)
+)
 
 ### Monthly Report Example (2018)
-![Dashboard Monthly](./3.png)
+![Dashboard Monthly](![image](https://github.com/user-attachments/assets/adf9ecd9-c117-46bc-979d-38a0ec570aee)
+)
 
 ### Year-wise Report (2019)
-![Dashboard 2019](./4.png)
-
----
-
-## 📽️ Project Demo Video
-[🔗 View Project Demo on LinkedIn](https://www.linkedin.com/posts/tuhin95_dataanalysis-python-powerbi-activity-6720264453604159488-3BkF)
+![Dashboard 2019](![image](https://github.com/user-attachments/assets/3a2f92e7-ad6c-4bb8-821d-76f67531c8b6)
+)
 
 ---
 
