@@ -1,19 +1,73 @@
-# Power BI Data Analysis Project for Sales Insights
+# 📊 Power BI Sales Insights Dashboard
 
-### Here I have uploaded my Power BI sales insights project. If you want to practice it just download or clone it. Thank you :)
-<br/>
+An interactive **Sales Insights Dashboard** built with **Power BI** to analyze and visualize business sales data. This project tracks key performance indicators, explores trends, and supports data-driven decision-making for businesses.
 
-# This Project Video Link:
+---
 
-https://www.linkedin.com/posts/tuhin95_dataanalysis-python-powerbi-activity-6720264453604159488-3BkF
-<br/>
-#
+## 🔎 Project Overview
+This dashboard provides a comprehensive view of:
+- Total Products Sold, Total Revenue, and Total Profit.
+- Sales Quantity, Revenue, and Profit by Market.
+- Revenue vs. Profit Trends (Line & Bar Charts).
+- Top Customers & Top Products analysis.
+- Customer Type breakdown (E-commerce vs. Brick & Mortar).
+- Zone-wise Revenue Distribution (North, Central, South).
+- Interactive filters for Year, Month, and Market selection.
+- Geographical visualization of sales locations on map.
 
-## Power BI User Interface: (Whole Years Report)
-![1](https://user-images.githubusercontent.com/50451175/92099294-ebb8da80-ee0c-11ea-942d-7603fdabe845.PNG)
+---
 
-## Power BI User Interface: (Specific Year 2019 Report)
-![2](https://user-images.githubusercontent.com/50451175/92147168-4b36da80-ee4d-11ea-8a95-6078c4929e81.PNG)
+## 📈 Key Features
+- **KPIs**: Total Sales, Revenue, and Profit summary cards.
+- **Market-Wise Breakdown**: Detailed sales analysis by regions.
+- **Revenue vs. Profit Trends**: Visualized through line & bar graphs.
+- **Top Customers & Products**: Highlighting key business drivers.
+- **Interactive Filters**: Slicers for Year, Month, and Region analysis.
+- **Geo Mapping**: Visualizing sales locations interactively.
+- **Customer Segmentation**: Insights by customer type.
+- **Zone-wise Revenue Split**: Contribution analysis by zones.
 
-## Power BI User Interface: (Specific Month Sep 19 Report)
-![3](https://user-images.githubusercontent.com/50451175/92147173-4d009e00-ee4d-11ea-9505-1b264d32e639.PNG)
+---
+
+## 🛠️ Tools & Technologies
+- Power BI Desktop  
+- DAX (Data Analysis Expressions)  
+- Power Query  
+- MySQL / Excel (Data Source)  
+- Python (optional preprocessing)
+
+---
+
+## 🖼️ Dashboard Snapshots
+
+### Year-wise Report (2020)
+![Dashboard 2020](./1.png)
+
+### Overall Report (2017-2020)
+![Dashboard Overall](./2.png)
+
+### Monthly Report Example (2018)
+![Dashboard Monthly](./3.png)
+
+### Year-wise Report (2019)
+![Dashboard 2019](./4.png)
+
+---
+
+## 📽️ Project Demo Video
+[🔗 View Project Demo on LinkedIn](https://www.linkedin.com/posts/tuhin95_dataanalysis-python-powerbi-activity-6720264453604159488-3BkF)
+
+---
+
+## 🚀 How to Run This Project
+1. Clone or download this repository.
+2. Open the `.pbix` file in Power BI Desktop.
+3. Explore dashboards and interact with filters to analyze data.
+4. Replace data source with your own dataset for custom analysis.
+
+---
+
+## ✅ Impact
+- Provided clear visibility of sales performance across different dimensions.
+- Enabled quick identification of trends, top markets, and products.
+- Helped in strategic business decision-making through data insights.
